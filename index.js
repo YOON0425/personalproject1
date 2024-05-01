@@ -2,3 +2,5 @@
 import { test } from './JS/function.js';
 
 test();
+
+// 김동규 왔다갑니다~
